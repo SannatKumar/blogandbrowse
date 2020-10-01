@@ -13,7 +13,7 @@ function Header() {
     <div>
       <Router>
         <Navbar bg="dark" variant="dark">
-          <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+          <Navbar.Brand href="#home">JN</Navbar.Brand>
           <Nav className="mr-auto">
             <Nav.Link href="#home">
               <Link to="/">Home</Link>
